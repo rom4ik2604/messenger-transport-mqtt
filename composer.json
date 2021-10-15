@@ -1,5 +1,5 @@
 {
-  "name": "vs-point/messenger-transport-mqtt",
+  "name": "rom4ik2604/messenger-transport-mqtt",
   "type": "library",
   "description": "Symfony Messenger transport for the MQTT.",
   "license": [
